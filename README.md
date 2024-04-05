@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Bacon0033
-- 👀 I’m interested in Scripting
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me Discord bacon_v2.0
-- ⚡ Fun fact: I like dogs
+Info about me here: https://bacon0033.github.io/About-me-website/
